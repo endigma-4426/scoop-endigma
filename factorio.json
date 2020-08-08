@@ -1,5 +1,7 @@
 {
-  "version": "1.0",
+  "version": "0.17.79",
+  "description": "Factorio is a construction and management simulation game developed by the Czech studio Wube Software.",
+  "homepage": "https://factorio.com/",
   "url": "https://endigma.xyz/files/factorio/Factorio_win_x64_0.17.79.zip",
   "extract_dir": "factorio",
   "bin": "cowsay.ps1"
