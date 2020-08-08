@@ -6,7 +6,7 @@
   "extract_dir": "Factorio_0.17.79",
   "shortcuts": [
       [
-          "\bin\x64\factorio.exe",
+          "\\bin\\x64\\factorio.exe",
           "Factorio"
       ]
   ]
