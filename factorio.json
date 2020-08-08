@@ -4,5 +4,10 @@
   "homepage": "https://factorio.com/",
   "url": "https://endigma.xyz/files/factorio/Factorio_win_x64_0.17.79.zip",
   "extract_dir": "factorio",
-  "bin": "cowsay.ps1"
+  "shortcuts": [
+      [
+          "/bin/x64/factorio.exe",
+          "Factorio"
+      ]
+  ]
 }
