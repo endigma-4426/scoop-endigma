@@ -4,6 +4,7 @@
   "homepage": "https://factorio.com/",
   "url": "http://192.168.0.36/files/factorio/Factorio_win_x64_0.17.79.zip",
   "extract_dir": "Factorio_0.17.79",
+  "bin": ".\\bin\\x64\\factorio.exe",
   "shortcuts": [
       [
           ".\\bin\\x64\\factorio.exe",
