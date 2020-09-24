@@ -1,0 +1,15 @@
+{
+    "version": "latest",
+    "description": "Fiji is an image processing package — a "batteries-included" distribution of ImageJ, bundling many plugins which facilitate scientific image analysis.",
+    "homepage": "https://fiji.sc/",
+    "license": "Freeware",
+    "url": "https://downloads.imagej.net/fiji/latest/fiji-win64.zip",
+    "version": "1.0",
+    "extract_dir": "Fiji",
+    "shortcuts": [
+        [
+            "ImageJ-win64.exe",
+            "Fiji"
+        ]
+    ],
+}
