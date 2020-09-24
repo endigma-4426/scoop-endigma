@@ -4,6 +4,7 @@
     "homepage": "https://fiji.sc/",
     "license": "Freeware",
     "url": "https://downloads.imagej.net/fiji/latest/fiji-win64.zip",
+    "hash: "ee0ee5d1d8ad189615c7f6e23cf08a9f37801fe7cef4dcc470b495be2d7cc67d"
     "extract_dir": "Fiji.app",
     "shortcuts": [
         [
